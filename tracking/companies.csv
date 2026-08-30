@@ -1,0 +1,2 @@
+id,slug,company,domain,segment,lane,started,dm_name,dm_role,dm_seniority,channel,email_status,angle,asset,personalization,send_date,send_dow,send_hour_local,first_reply_date,days_to_reply,stage,outcome_reason,case_file,notes
+001,sixsense,SixSense,sixsense.ai,ai-manufacturing-saas,manual,2026-08-30,Akanksha Jagwani,Co-Founder & CEO,founder,email,pattern_inferred,work-first,offered,3,,,,,,staged,,casebook/001-sixsense.md,Gmail draft staged; rec send Tue 1 Sep 08:00 PDT; asset=2p PDF with 16 named people

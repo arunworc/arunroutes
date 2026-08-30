@@ -25,6 +25,10 @@ Lead generation was solved and paid for. Delivery was the bottleneck.
 - `inventory/` — role lists verified against primary sources, dated. Each entry
   carries the source URL so a recipient can check it independently.
 - `outreach/` — message templates and the rules governing what may be claimed.
+- `research/` — ICP and prospect research backing specific pursuits.
+- `tracking/` — the deal ledger: one CSV row + one case file per company
+  worked by hand, one row per mass campaign, and `scripts/report.py` for
+  win/loss analysis. If you can't track it, you can't fix it.
 
 ## Rules for outbound copy
 

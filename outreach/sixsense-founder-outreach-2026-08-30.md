@@ -53,9 +53,9 @@ as a business partner who builds target-account pipelines.
 > is sitting in fabs and packaging, the buyer list is finite enough to work
 > by name instead of by volume.
 >
-> I built this from the outside, so some of the tiering is probably wrong —
-> you'd know in a minute which accounts I've over- or under-weighted.
-> That's half of why I want to show it to you.
+> It's built off public signals — production starts, capacity expansions,
+> hiring — so you'll already know which of these are in your pipeline and
+> which are dead ends. That's half of why I want to show it to you.
 >
 > Mind if I send it over?
 >
@@ -69,8 +69,8 @@ as a business partner who builds target-account pipelines.
 > ~30 accounts, tiered — India's greenfield OSATs first (Tata Vemagal,
 > Micron Sanand, CG Semi, Kaynes — all live this year, no legacy
 > workflows), plus lookalikes of GF/JCET/Tong Hsing across TW/MY/VN, each
-> with a why-now trigger. Built from the outside, so you'd spot what I've
-> mis-tiered faster than I would. Mind if I send it over?
+> with a why-now trigger. All off public signals, so you'll know which are
+> already in your pipeline. Mind if I send it over?
 
 ## Follow-up (only if no reply in 3–4 business days)
 
@@ -85,7 +85,11 @@ as a business partner who builds target-account pipelines.
   attachment dump — gets a reply, not a skim.
 - Humility is carried by the body, not just the ask: the $120B line credits
   her post as the source of the thinking rather than explaining her own
-  market back to her, and the outside-in caveat is true, disarming, and
-  makes replying easy — correcting a list is less work than judging one.
+  market back to her, and the public-signals caveat makes replying easy —
+  correcting a list is less work than judging one.
+- The caveat names the DATA's limit (public sources only; she knows her own
+  pipeline), never Arun's experience. Never write "built from the outside"
+  or anything that volunteers unfamiliarity with semis — she has no way to
+  read that except as a confession, and she never asked.
 - Per standing instruction: nothing is sent by Claude, ever, without an
   explicit verbal go. Arun sends this himself.

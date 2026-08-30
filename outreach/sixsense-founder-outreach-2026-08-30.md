@@ -26,6 +26,12 @@ as a business partner who builds target-account pipelines.
 1. Her 18 Aug 2026 LinkedIn post: "~$120B of industry value at risk" across
    fabs and packaging — finding defects is solved, acting on them isn't.
 2. The Founding GTM Engineer posting for Bengaluru (surfaced 27 Aug).
+   Named plainly, with no inference drawn from it. Cut an earlier line
+   ("which tells me pipeline is on your mind heading into SEMICON Taiwan"):
+   it told her what she was thinking, explained her own hiring decision
+   back to her, and welded her speaking slot to the job post to show
+   research. She is speaking at SEMICON Taiwan in September — useful
+   context for timing a follow-up, not a line for the opener.
 3. Tata Vemagal, Micron Sanand, CG Semi and Kaynes all entering production
    in 2026 — the greenfield, no-legacy-workflow accounts her TechCrunch
    quote calls a tailwind. (Deliberately no "I'm nearby" line: proximity is
@@ -38,8 +44,7 @@ as a business partner who builds target-account pipelines.
 
 > Hi Akanksha,
 >
-> Saw the Founding GTM Engineer post for Bengaluru — which tells me
-> pipeline is on your mind heading into SEMICON Taiwan.
+> Saw the Founding GTM Engineer post for Bengaluru.
 >
 > I map target accounts for B2B teams, and I went ahead and built
 > SixSense's: ~30 names, tiered. Top of the stack is India's greenfield

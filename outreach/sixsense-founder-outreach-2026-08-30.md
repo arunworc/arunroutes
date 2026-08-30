@@ -61,37 +61,16 @@ as a business partner who builds target-account pipelines.
 >
 > Arun
 > +91 89207 12899
->
-> P.S. That ASMC post about running into the GlobalFoundries engineer in
-> the hallway after months of video calls — that's the good part of this
-> work, isn't it.
 
-## P.S. options (swap if the primary doesn't feel like Arun's voice)
+## No P.S. — decided
 
-The one in the email is the ASMC hallway post (19 May 2026) — chosen
-because it is a main post meant for an audience, not a comment reply.
+Tried one off her ASMC hallway post, twice. Both reads came back fake: any
+personal note bolted onto a cold email is doing a job, and the reader feels
+the job being done. It also adds a second thing to process in an email that
+already asks for one small yes. Cut it.
 
-Keep it underwritten. A P.S. that is well-crafted defeats itself: quoting
-her line back in quote marks, "stuck with me", "the whole thesis of what I
-do" all read as technique. React to the post like a person who read it and
-liked it, then stop. Shorter is warmer here.
-
-Alternates, in order of warmth:
-
-1. **The "safer path" line.** Replying to a WEF congratulation she wrote:
-   *"building AI for semiconductor fabs was not the 'safer path' my parents
-   had in mind. Glad we didn't take it."* Warmest option and very resonant.
-   Risk: it lives in a comment reply, so quoting it can read as "I went
-   through your comment threads." Use only if Arun wants maximum warmth.
-2. **WEF Technology Pioneer 2026** (one of 100 companies, 23 countries).
-   Safe, but congratulating an award is the most generic move available.
-3. **IIT Gandhinagar, mechanical engineering** — a shared-background nod.
-   Only genuine if Arun actually has that thread to pull; otherwise skip.
-
-Do NOT use: dancing or food from her About page (too personal for a first
-touch), or the fact that she was once a product designer at Headout (true,
-and Headout is on Arun's own GTM list — but pointing it out reads as
-surveillance).
+If warmth is wanted later, it belongs in the second email — after she
+replies, when a reaction to her work costs her nothing to receive.
 
 ## Note on her location
 

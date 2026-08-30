@@ -49,9 +49,13 @@ as a business partner who builds target-account pipelines.
 > Taiwan, Malaysia and Vietnam, each with the trigger that makes them
 > worth touching now.
 >
-> Your post about ~$120B at risk across fabs and packaging is the argument
-> this list runs on: the market is enumerable, so signal-driven named
-> accounts beat volume outbound.
+> Your $120B post is what made me build it this way — if that much value
+> is sitting in fabs and packaging, the buyer list is finite enough to work
+> by name instead of by volume.
+>
+> I built this from the outside, so some of the tiering is probably wrong —
+> you'd know in a minute which accounts I've over- or under-weighted.
+> That's half of why I want to show it to you.
 >
 > Mind if I send it over?
 >
@@ -65,12 +69,13 @@ as a business partner who builds target-account pipelines.
 > ~30 accounts, tiered — India's greenfield OSATs first (Tata Vemagal,
 > Micron Sanand, CG Semi, Kaynes — all live this year, no legacy
 > workflows), plus lookalikes of GF/JCET/Tong Hsing across TW/MY/VN, each
-> with a why-now trigger. Mind if I send it over?
+> with a why-now trigger. Built from the outside, so you'd spot what I've
+> mis-tiered faster than I would. Mind if I send it over?
 
 ## Follow-up (only if no reply in 3–4 business days)
 
-> Quick nudge — the list is one page, takes 90 seconds to read. If the
-> role's already moving, happy to share it anyway; it's yours either way.
+> Quick nudge — the list is one page, 90 seconds to read, and I'd genuinely
+> like to know which accounts you'd throw out. Yours either way.
 
 ## Rules honored
 
@@ -78,5 +83,9 @@ as a business partner who builds target-account pipelines.
   quoted are hers ($120B post) and public project milestones.
 - The ask is a micro-commitment ("mind if I send it over?"), not an
   attachment dump — gets a reply, not a skim.
+- Humility is carried by the body, not just the ask: the $120B line credits
+  her post as the source of the thinking rather than explaining her own
+  market back to her, and the outside-in caveat is true, disarming, and
+  makes replying easy — correcting a list is less work than judging one.
 - Per standing instruction: nothing is sent by Claude, ever, without an
   explicit verbal go. Arun sends this himself.

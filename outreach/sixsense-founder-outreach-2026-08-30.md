@@ -61,6 +61,42 @@ as a business partner who builds target-account pipelines.
 >
 > Arun
 > +91 89207 12899
+>
+> P.S. Your ASMC post about bumping into the GlobalFoundries engineer in a
+> hallway after months of video calls stuck with me — "the work compounds,
+> and so do the relationships" is more or less the whole thesis of what I
+> do for a living.
+
+## P.S. options (swap if the primary doesn't feel like Arun's voice)
+
+The one in the email is the ASMC hallway post (19 May 2026) — chosen
+because it is a main post meant for an audience, and because agreeing with
+her about relationships compounding says something true about Arun's own
+business. It is reciprocal, not flattery.
+
+Alternates, in order of warmth:
+
+1. **The "safer path" line.** Replying to a WEF congratulation she wrote:
+   *"building AI for semiconductor fabs was not the 'safer path' my parents
+   had in mind. Glad we didn't take it."* Warmest option and very resonant.
+   Risk: it lives in a comment reply, so quoting it can read as "I went
+   through your comment threads." Use only if Arun wants maximum warmth.
+2. **WEF Technology Pioneer 2026** (one of 100 companies, 23 countries).
+   Safe, but congratulating an award is the most generic move available.
+3. **IIT Gandhinagar, mechanical engineering** — a shared-background nod.
+   Only genuine if Arun actually has that thread to pull; otherwise skip.
+
+Do NOT use: dancing or food from her About page (too personal for a first
+touch), or the fact that she was once a product designer at Headout (true,
+and Headout is on Arun's own GTM list — but pointing it out reads as
+surveillance).
+
+## Note on her location
+
+Her LinkedIn activity data lists her as San Francisco Bay Area, while the
+company is Singapore-HQ and she was Singapore-based historically — she has
+been building the US team in 2026. Don't assume a Bengaluru coffee is
+possible; keep any meeting offer video-first.
 
 ## LinkedIn DM (if email bounces, or as a same-day second channel)
 

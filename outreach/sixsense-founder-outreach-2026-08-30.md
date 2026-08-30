@@ -54,14 +54,14 @@ as a business partner who builds target-account pipelines.
 > and Tong Hsing, across Taiwan, Malaysia and Vietnam. Each one has a
 > reason it's worth a conversation right now.
 >
-> Your $120B post is why I built it this way. A list this short gets won
-> by name and by relationship, not by volume.
+> Your $120B post is why I built it by name instead of by volume.
 >
-> It's all public signals — production starts, expansions, hiring. So
-> you'll know in a minute which names you already know, and which are
-> dead ends. That's half of why I want to show it to you.
+> It's all public signals — production starts, expansions, hiring. You'll
+> know in a minute which names you already work with, and which are dead
+> ends.
 >
-> Mind if I send it over?
+> Am I going in the right direction? If yes, I'll send the whole thing
+> over.
 >
 > Arun
 > +91 89207 12899
@@ -91,12 +91,13 @@ possible; keep any meeting offer video-first.
 > Micron Sanand, CG Semi, Kaynes — all producing this year, no old habits
 > to break. Then companies like GF, JCET and Tong Hsing across TW/MY/VN,
 > each with a reason to talk now. All public signals, so you'll spot the
-> names you already know. Mind if I send it over?
+> names you already work with. Am I going in the right direction? If yes,
+> I'll send the whole thing over.
 
 ## Follow-up (only if no reply in 3–4 business days)
 
-> Quick nudge — the list is one page, 90 seconds to read, and I'd genuinely
-> like to know which accounts you'd throw out. Yours either way.
+> Quick nudge — one page, 90 seconds to read. Mostly I'd like to know
+> which ones you'd throw out. Yours either way.
 
 ## Register — written from all stages integrated, not Orange alone
 
@@ -115,8 +116,9 @@ length and carries each stage in one working clause, never a paragraph:
    honest about what the data cannot know.
 4. **Orange** (achievement): the list itself, the why-now triggers, finite
    market worked efficiently. Still the spine — one stage among seven now.
-5. **Green** (relationships): "worth a conversation now" (was "worth
-   touching now"); "worked by name and by relationship."
+5. **Green** (relationships): "worth a conversation right now"; "built it
+   by name"; and the ask itself, which invites her judgement rather than
+   her permission.
 6. **Yellow** (systems, emergence): the greenfield wave read as a forming
    system — production starts, expansions, hiring as signals of a market
    being born.
@@ -137,8 +139,17 @@ registers survive simplification; the nesting did not need to.
 
 - No warm relationship implied. No unevidenced numbers — the only figures
   quoted are hers ($120B post) and public project milestones.
-- The ask is a micro-commitment ("mind if I send it over?"), not an
-  attachment dump — gets a reply, not a skim.
+- The ask is for her JUDGEMENT, not permission: "Am I going in the right
+  direction? If yes, I'll send the whole thing over." Being asked whether
+  a read is correct is more interesting to a founder than being asked to
+  accept a file, and it makes her the authority. It also fails well — "no,
+  you're wrong about X" is a conversation, where "no thanks" to an
+  attachment is a dead end.
+- Never pronounce on how her market works. Cut "a list this short gets won
+  by name and by relationship, not by volume" — a general truth-claim
+  aimed at someone who knows the market far better. The surviving line
+  describes only what Arun DID ("why I built it by name instead of by
+  volume"), which is his to say.
 - Humility is carried by the body, not just the ask: the $120B line credits
   her post as the source of the thinking rather than explaining her own
   market back to her, and the public-signals caveat makes replying easy —

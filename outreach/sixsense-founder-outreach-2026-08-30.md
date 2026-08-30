@@ -47,18 +47,18 @@ as a business partner who builds target-account pipelines.
 > Saw the Founding GTM Engineer post.
 >
 > I map target accounts for B2B teams, and I went ahead and built
-> SixSense's: ~30 names, tiered. Top of the stack is India's greenfield
-> wave — Tata Vemagal, Micron Sanand, CG Semi and Kaynes all went into
-> production this year, with no legacy inspection habits to unwind —
-> factories that can think from day one. Behind them, lookalikes of
-> GlobalFoundries, JCET and Tong Hsing across Taiwan, Malaysia and
-> Vietnam, each with the trigger that makes them worth a conversation now.
+> SixSense's. It's ~30 names, tiered. At the top: India's new wave. Tata
+> Vemagal, Micron Sanand, CG Semi and Kaynes all started producing this
+> year. No old inspection habits to break — factories that can think from
+> day one. Behind them: companies that look like GlobalFoundries, JCET
+> and Tong Hsing, across Taiwan, Malaysia and Vietnam. Each one has a
+> reason it's worth a conversation right now.
 >
-> Your $120B post is what made me build it this way — a market this
-> finite gets worked by name and by relationship, not by volume.
+> Your $120B post is why I built it this way. A list this short gets won
+> by name and by relationship, not by volume.
 >
-> It's all public signals — production starts, expansions, hiring — so
-> you'll know in a minute which of these you already know, and which are
+> It's all public signals — production starts, expansions, hiring. So
+> you'll know in a minute which names you already know, and which are
 > dead ends. That's half of why I want to show it to you.
 >
 > Mind if I send it over?
@@ -86,12 +86,12 @@ possible; keep any meeting offer video-first.
 ## LinkedIn DM (if email bounces, or as a same-day second channel)
 
 > Hi Akanksha — saw the Founding GTM Engineer post. I build
-> target-account lists for B2B teams and went ahead and built SixSense's:
-> ~30 accounts, tiered — India's greenfield wave first (Tata Vemagal,
-> Micron Sanand, CG Semi, Kaynes — all producing this year, no legacy
-> habits to unwind), plus lookalikes of GF/JCET/Tong Hsing across
-> TW/MY/VN, each with a why-now trigger. All public signals, so you'll
-> spot the names you already know. Mind if I send it over?
+> target-account lists for B2B teams, and I went ahead and built
+> SixSense's. ~30 accounts, tiered. India's new wave first: Tata Vemagal,
+> Micron Sanand, CG Semi, Kaynes — all producing this year, no old habits
+> to break. Then companies like GF, JCET and Tong Hsing across TW/MY/VN,
+> each with a reason to talk now. All public signals, so you'll spot the
+> names you already know. Mind if I send it over?
 
 ## Follow-up (only if no reply in 3–4 business days)
 
@@ -127,6 +127,11 @@ length and carries each stage in one working clause, never a paragraph:
 
 Written FROM second tier: no stage preaches, each appears once, doing work
 the sentence needed anyway.
+
+**Reading level: 7th grade.** Short sentences, one idea each, common words.
+"Greenfield" became "new wave", "legacy habits to unwind" became "old
+habits to break", "lookalikes" became "companies that look like". The
+registers survive simplification; the nesting did not need to.
 
 ## Rules honored
 

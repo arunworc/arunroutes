@@ -62,17 +62,19 @@ as a business partner who builds target-account pipelines.
 > Arun
 > +91 89207 12899
 >
-> P.S. Your ASMC post about bumping into the GlobalFoundries engineer in a
-> hallway after months of video calls stuck with me — "the work compounds,
-> and so do the relationships" is more or less the whole thesis of what I
-> do for a living.
+> P.S. That ASMC post about running into the GlobalFoundries engineer in
+> the hallway after months of video calls — that's the good part of this
+> work, isn't it.
 
 ## P.S. options (swap if the primary doesn't feel like Arun's voice)
 
 The one in the email is the ASMC hallway post (19 May 2026) — chosen
-because it is a main post meant for an audience, and because agreeing with
-her about relationships compounding says something true about Arun's own
-business. It is reciprocal, not flattery.
+because it is a main post meant for an audience, not a comment reply.
+
+Keep it underwritten. A P.S. that is well-crafted defeats itself: quoting
+her line back in quote marks, "stuck with me", "the whole thesis of what I
+do" all read as technique. React to the post like a person who read it and
+liked it, then stop. Shorter is warmer here.
 
 Alternates, in order of warmth:
 

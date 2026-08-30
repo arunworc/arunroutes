@@ -1,6 +1,11 @@
-# SixSense — Founding GTM Engineer outreach draft
+# SixSense — founder outreach draft (business partner positioning)
 
-*Drafted 30 Aug 2026. STATUS: DRAFT — NOT SENT. Arun sends manually.*
+*Drafted 30 Aug 2026, revised same day. STATUS: DRAFT — NOT SENT. Arun
+sends manually.*
+
+**Positioning:** Arun is NOT applying for the job. The GTM Engineer post is
+the trigger that reveals what SixSense needs; the offer is the list itself,
+as a business partner who builds target-account pipelines.
 
 ## Target
 
@@ -28,39 +33,38 @@
 ## Email
 
 **To:** akanksha@sixsense.ai
-**Subject:** Your Founding GTM Engineer post — I already built the India list
+**Subject:** Saw your GTM Engineer post — SixSense's India list is already built
 
 > Hi Akanksha,
 >
-> Saw the Founding GTM Engineer opening for Bengaluru. Rather than send a
-> CV into a pile, I figured I'd show the work first.
+> Saw the Founding GTM Engineer post for Bengaluru — which tells me
+> pipeline is on your mind heading into SEMICON Taiwan.
 >
-> I've mapped the accounts I believe SixSense should chase next: ~30 names,
-> tiered. Top of the stack is India's greenfield wave — Tata's Vemagal OSAT
-> is an hour from where I sit, and Micron Sanand, CG Semi and Kaynes all
-> entered production this year with no legacy inspection workflows to
-> unwind. Behind them, lookalikes of GlobalFoundries, JCET and Tong Hsing
-> across Taiwan, Malaysia and Vietnam, each with the trigger that makes
-> them worth touching now.
+> I map target accounts for B2B teams, and I went ahead and built
+> SixSense's: ~30 names, tiered. Top of the stack is India's greenfield
+> wave — Tata's Vemagal OSAT is an hour from where I sit, and Micron
+> Sanand, CG Semi and Kaynes all entered production this year with no
+> legacy inspection workflows to unwind. Behind them, lookalikes of
+> GlobalFoundries, JCET and Tong Hsing across Taiwan, Malaysia and
+> Vietnam, each with the trigger that makes them worth touching now.
 >
 > Your post about ~$120B at risk across fabs and packaging is the argument
 > this list runs on: the market is enumerable, so signal-driven named
-> accounts beat volume outbound. Building that machine is what you're
-> hiring for.
+> accounts beat volume outbound.
 >
 > Mind if I send it over?
 >
 > Arun
-> Bengaluru · [phone] · [LinkedIn URL]
+> +91 89207 12899
 
 ## LinkedIn DM (if email bounces, or as a same-day second channel)
 
-> Hi Akanksha — saw the Founding GTM Engineer post for Bengaluru. Before
-> applying, I built what I'd build in week one: a tiered list of ~30 target
-> accounts, starting with India's greenfield OSATs (Tata Vemagal, Micron
-> Sanand, CG Semi, Kaynes — all live this year, no legacy workflows) plus
-> lookalikes of GF/JCET/Tong Hsing across TW/MY/VN, each with a why-now
-> trigger. Mind if I send it over?
+> Hi Akanksha — saw the Founding GTM Engineer post for Bengaluru. I build
+> target-account lists for B2B teams and went ahead and built SixSense's:
+> ~30 accounts, tiered — India's greenfield OSATs first (Tata Vemagal,
+> Micron Sanand, CG Semi, Kaynes — all live this year, no legacy
+> workflows), plus lookalikes of GF/JCET/Tong Hsing across TW/MY/VN, each
+> with a why-now trigger. Mind if I send it over?
 
 ## Follow-up (only if no reply in 3–4 business days)
 

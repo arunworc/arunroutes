@@ -47,18 +47,19 @@ as a business partner who builds target-account pipelines.
 > Saw the Founding GTM Engineer post.
 >
 > I map target accounts for B2B teams, and I went ahead and built
-> SixSense's. It's ~30 names, tiered. At the top: India's new wave. Tata
-> Vemagal, Micron Sanand, CG Semi and Kaynes all started producing this
-> year. No old inspection habits to break — factories that can think from
-> day one. Behind them: companies that look like GlobalFoundries, JCET
-> and Tong Hsing, across Taiwan, Malaysia and Vietnam. Each one has a
-> reason it's worth a conversation right now.
+> SixSense's. About 30 names, tiered.
 >
-> Your $120B post is why I built it by name instead of by volume. It's
-> all public signals — production starts, expansions, hiring.
+> The names are the easy part. Anyone can list India's new fabs. The work
+> was in the paths between them. Wavetek is UMC's subsidiary, so the proof
+> you already have there walks straight up into UMC's own fabs. CG Semi is
+> a Renesas JV — win the OSAT in Gujarat and you have a reason to be in
+> front of Renesas in Japan. And Tata's Vemagal line is already shipping,
+> while everyone watches Dholera.
 >
-> Am I going in the right direction? If yes, I'll send the whole thing
-> over.
+> Your $120B post is why I built it that way.
+>
+> Happy to send the whole thing. Mostly I'd like to know if you'd tier it
+> the same way.
 >
 > Arun
 > +91 89207 12899
@@ -84,11 +85,11 @@ possible; keep any meeting offer video-first.
 
 > Hi Akanksha — saw the Founding GTM Engineer post. I build
 > target-account lists for B2B teams, and I went ahead and built
-> SixSense's. ~30 accounts, tiered. India's new wave first: Tata Vemagal,
-> Micron Sanand, CG Semi, Kaynes — all producing this year, no old habits
-> to break. Then companies like GF, JCET and Tong Hsing across TW/MY/VN,
-> each with a reason to talk now. All public signals. Am I going in the
-> right direction? If yes, I'll send the whole thing over.
+> SixSense's. About 30 names, tiered by the paths between them rather than
+> the names themselves — Wavetek walks up into UMC, CG Semi is a door to
+> Renesas, Vemagal is already shipping while everyone watches Dholera.
+> Happy to send the whole thing. Mostly I'd like to know if you'd tier it
+> the same way.
 
 ## Follow-up (only if no reply in 3–4 business days)
 
@@ -118,10 +119,11 @@ length and carries each stage in one working clause, never a paragraph:
 6. **Yellow** (systems, emergence): the greenfield wave read as a forming
    system — production starts, expansions, hiring as signals of a market
    being born.
-7. **Turquoise** (meaning): "factories that can think from day one" — her
-   own mission language reflected back at the one moment it is literally
-   true. This is the single deliberately resonant clause; if any line ever
-   feels like one too many, this is the one to cut, not the data.
+7. **Turquoise** (meaning): dropped in the moat rewrite. "Factories that
+   can think from day one" was her own mission language, but it sat beside
+   the name-list that got cut. The moat paragraph carries Yellow strongly
+   enough that a mission clause would now read as decoration. Left out on
+   purpose — do not glue it back on.
 
 Written FROM second tier: no stage preaches, each appears once, doing work
 the sentence needed anyway.
@@ -141,6 +143,24 @@ registers survive simplification; the nesting did not need to.
   accept a file, and it makes her the authority. It also fails well — "no,
   you're wrong about X" is a conversation, where "no thanks" to an
   attachment is a dead end.
+- **Show the moat, not the names.** Tata, Micron, CG Semi, GlobalFoundries
+  are one Google away; listing them proves nothing and reads as research
+  anyone could do. What is not searchable in one query is the graph
+  between accounts — who owns whom, which win opens which door, who is
+  quietly already live. Lead with a path, not a roster. The email says so
+  out loud ("the names are the easy part"), which also disarms the
+  obvious objection before she can make it.
+  - Wavetek is a UMC subsidiary — verified on SixSense's own site.
+  - CG Semi is a CG Power + Renesas + Stars Microelectronics JV — verified
+    on the ISM project tracker.
+  - Tata's Vemagal, Karnataka OSAT is already making small-scale shipments
+    while attention sits on Dholera — verified in Economic Times.
+- **The ask offers first, then asks her judgement.** "Happy to send the
+  whole thing. Mostly I'd like to know if you'd tier it the same way."
+  The earlier "Am I going in the right direction? If yes, I'll send it"
+  did two things wrong: it sounded like a student seeking approval, and it
+  gated the list behind her approval. Give it freely; ask the one question
+  only she can answer.
 - Never predict her reaction. Cut "you'll know in a minute which names you
   already work with, and which are dead ends" — same tic as the SEMICON
   line, and it labels part of Arun's own list as junk before she has seen

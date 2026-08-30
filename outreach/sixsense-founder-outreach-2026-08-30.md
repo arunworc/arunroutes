@@ -44,23 +44,22 @@ as a business partner who builds target-account pipelines.
 
 > Hi Akanksha,
 >
-> Saw the Founding GTM Engineer post for Bengaluru.
+> Saw the Founding GTM Engineer post.
 >
 > I map target accounts for B2B teams, and I went ahead and built
 > SixSense's: ~30 names, tiered. Top of the stack is India's greenfield
-> wave — Tata Vemagal, Micron Sanand, CG Semi and Kaynes all entered
-> production this year with no legacy inspection workflows to unwind.
-> Behind them, lookalikes of GlobalFoundries, JCET and Tong Hsing across
-> Taiwan, Malaysia and Vietnam, each with the trigger that makes them
-> worth touching now.
+> wave — Tata Vemagal, Micron Sanand, CG Semi and Kaynes all went into
+> production this year, with no legacy inspection habits to unwind —
+> factories that can think from day one. Behind them, lookalikes of
+> GlobalFoundries, JCET and Tong Hsing across Taiwan, Malaysia and
+> Vietnam, each with the trigger that makes them worth a conversation now.
 >
-> Your $120B post is what made me build it this way — if that much value
-> is sitting in fabs and packaging, the buyer list is finite enough to work
-> by name instead of by volume.
+> Your $120B post is what made me build it this way — a market this
+> finite gets worked by name and by relationship, not by volume.
 >
-> It's built off public signals — production starts, capacity expansions,
-> hiring — so you'll already know which of these are in your pipeline and
-> which are dead ends. That's half of why I want to show it to you.
+> It's all public signals — production starts, expansions, hiring — so
+> you'll know in a minute which of these you already know, and which are
+> dead ends. That's half of why I want to show it to you.
 >
 > Mind if I send it over?
 >
@@ -86,18 +85,48 @@ possible; keep any meeting offer video-first.
 
 ## LinkedIn DM (if email bounces, or as a same-day second channel)
 
-> Hi Akanksha — saw the Founding GTM Engineer post for Bengaluru. I build
+> Hi Akanksha — saw the Founding GTM Engineer post. I build
 > target-account lists for B2B teams and went ahead and built SixSense's:
-> ~30 accounts, tiered — India's greenfield OSATs first (Tata Vemagal,
-> Micron Sanand, CG Semi, Kaynes — all live this year, no legacy
-> workflows), plus lookalikes of GF/JCET/Tong Hsing across TW/MY/VN, each
-> with a why-now trigger. All off public signals, so you'll know which are
-> already in your pipeline. Mind if I send it over?
+> ~30 accounts, tiered — India's greenfield wave first (Tata Vemagal,
+> Micron Sanand, CG Semi, Kaynes — all producing this year, no legacy
+> habits to unwind), plus lookalikes of GF/JCET/Tong Hsing across
+> TW/MY/VN, each with a why-now trigger. All public signals, so you'll
+> spot the names you already know. Mind if I send it over?
 
 ## Follow-up (only if no reply in 3–4 business days)
 
 > Quick nudge — the list is one page, 90 seconds to read, and I'd genuinely
 > like to know which accounts you'd throw out. Yours either way.
+
+## Register — written from all stages integrated, not Orange alone
+
+Her own public voice is Green/Yellow/Turquoise ("give every chip factory a
+brain", "factories that think", "the work compounds, and so do the
+relationships"). The earlier draft was pure Orange — pipeline, triggers,
+efficiency — a register mismatch. The rewrite keeps the email the same
+length and carries each stage in one working clause, never a paragraph:
+
+1. **Purple** (kinship): her own customers — GF, JCET, Tong Hsing — as the
+   familiar circle the lookalikes are drawn from; "which of these you
+   already know" treats the market as her small world, not a cold TAM.
+2. **Red** (bold action): "I went ahead and built SixSense's" — acted
+   first, asked second.
+3. **Blue** (order, truth): tiered structure; public, checkable signals;
+   honest about what the data cannot know.
+4. **Orange** (achievement): the list itself, the why-now triggers, finite
+   market worked efficiently. Still the spine — one stage among seven now.
+5. **Green** (relationships): "worth a conversation now" (was "worth
+   touching now"); "worked by name and by relationship."
+6. **Yellow** (systems, emergence): the greenfield wave read as a forming
+   system — production starts, expansions, hiring as signals of a market
+   being born.
+7. **Turquoise** (meaning): "factories that can think from day one" — her
+   own mission language reflected back at the one moment it is literally
+   true. This is the single deliberately resonant clause; if any line ever
+   feels like one too many, this is the one to cut, not the data.
+
+Written FROM second tier: no stage preaches, each appears once, doing work
+the sentence needed anyway.
 
 ## Rules honored
 

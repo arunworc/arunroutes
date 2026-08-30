@@ -54,11 +54,8 @@ as a business partner who builds target-account pipelines.
 > and Tong Hsing, across Taiwan, Malaysia and Vietnam. Each one has a
 > reason it's worth a conversation right now.
 >
-> Your $120B post is why I built it by name instead of by volume.
->
-> It's all public signals — production starts, expansions, hiring. You'll
-> know in a minute which names you already work with, and which are dead
-> ends.
+> Your $120B post is why I built it by name instead of by volume. It's
+> all public signals — production starts, expansions, hiring.
 >
 > Am I going in the right direction? If yes, I'll send the whole thing
 > over.
@@ -90,9 +87,8 @@ possible; keep any meeting offer video-first.
 > SixSense's. ~30 accounts, tiered. India's new wave first: Tata Vemagal,
 > Micron Sanand, CG Semi, Kaynes — all producing this year, no old habits
 > to break. Then companies like GF, JCET and Tong Hsing across TW/MY/VN,
-> each with a reason to talk now. All public signals, so you'll spot the
-> names you already work with. Am I going in the right direction? If yes,
-> I'll send the whole thing over.
+> each with a reason to talk now. All public signals. Am I going in the
+> right direction? If yes, I'll send the whole thing over.
 
 ## Follow-up (only if no reply in 3–4 business days)
 
@@ -107,9 +103,9 @@ relationships"). The earlier draft was pure Orange — pipeline, triggers,
 efficiency — a register mismatch. The rewrite keeps the email the same
 length and carries each stage in one working clause, never a paragraph:
 
-1. **Purple** (kinship): her own customers — GF, JCET, Tong Hsing — as the
-   familiar circle the lookalikes are drawn from; "which of these you
-   already know" treats the market as her small world, not a cold TAM.
+1. **Purple** (kinship): her own customers — GF, JCET, Tong Hsing — named
+   as the circle the rest of the list is drawn from, so the market reads
+   as her small world rather than a cold TAM.
 2. **Red** (bold action): "I went ahead and built SixSense's" — acted
    first, asked second.
 3. **Blue** (order, truth): tiered structure; public, checkable signals;
@@ -145,6 +141,11 @@ registers survive simplification; the nesting did not need to.
   accept a file, and it makes her the authority. It also fails well — "no,
   you're wrong about X" is a conversation, where "no thanks" to an
   attachment is a dead end.
+- Never predict her reaction. Cut "you'll know in a minute which names you
+  already work with, and which are dead ends" — same tic as the SEMICON
+  line, and it labels part of Arun's own list as junk before she has seen
+  it. The closing question already invites correction; two hedges stacked
+  read as nerves.
 - Never pronounce on how her market works. Cut "a list this short gets won
   by name and by relationship, not by volume" — a general truth-claim
   aimed at someone who knows the market far better. The surviving line

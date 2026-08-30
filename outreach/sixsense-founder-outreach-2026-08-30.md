@@ -26,9 +26,10 @@ as a business partner who builds target-account pipelines.
 1. Her 18 Aug 2026 LinkedIn post: "~$120B of industry value at risk" across
    fabs and packaging — finding defects is solved, acting on them isn't.
 2. The Founding GTM Engineer posting for Bengaluru (surfaced 27 Aug).
-3. Tata's Vemagal OSAT being ~an hour from Bengaluru; Micron Sanand,
-   CG Semi, Kaynes all entering production in 2026 — the greenfield,
-   no-legacy-workflow accounts her TechCrunch quote calls a tailwind.
+3. Tata Vemagal, Micron Sanand, CG Semi and Kaynes all entering production
+   in 2026 — the greenfield, no-legacy-workflow accounts her TechCrunch
+   quote calls a tailwind. (Deliberately no "I'm nearby" line: proximity is
+   a candidate's argument, not a partner's.)
 
 ## Email
 
@@ -42,11 +43,11 @@ as a business partner who builds target-account pipelines.
 >
 > I map target accounts for B2B teams, and I went ahead and built
 > SixSense's: ~30 names, tiered. Top of the stack is India's greenfield
-> wave — Tata's Vemagal OSAT is an hour from where I sit, and Micron
-> Sanand, CG Semi and Kaynes all entered production this year with no
-> legacy inspection workflows to unwind. Behind them, lookalikes of
-> GlobalFoundries, JCET and Tong Hsing across Taiwan, Malaysia and
-> Vietnam, each with the trigger that makes them worth touching now.
+> wave — Tata Vemagal, Micron Sanand, CG Semi and Kaynes all entered
+> production this year with no legacy inspection workflows to unwind.
+> Behind them, lookalikes of GlobalFoundries, JCET and Tong Hsing across
+> Taiwan, Malaysia and Vietnam, each with the trigger that makes them
+> worth touching now.
 >
 > Your post about ~$120B at risk across fabs and packaging is the argument
 > this list runs on: the market is enumerable, so signal-driven named

@@ -40,85 +40,29 @@ as a business partner who builds target-account pipelines.
 ## Email
 
 **To:** akanksha@sixsense.ai
-**Subject:** Two pages on the $120B
+**Subject:** Saw your GTM Engineer post — SixSense's India list is already built
 
-> Akanksha,
+> Hi Akanksha,
 >
-> I built a two-page account map for SixSense. 30 accounts in three tiers.
+> Saw the Founding GTM Engineer post.
 >
-> Your August post put the $120B after the defect is found, not in finding
-> it. Tier 1 is the four Indian plants that went into production this year:
-> Tata Vemagal, Micron Sanand, CG Semi, Kaynes Semicon. Four names each.
-> Vemagal is already shipping at small volume.
+> I map target accounts for B2B teams, and I went ahead and built
+> SixSense's. About 30 names, tiered.
 >
-> CG Semi's lead test equipment engineer spent 14 years at Renesas KL.
-> Renesas is in Tier 2 because of him, not the JV. So are UMC's specialty
-> fabs, off Wavetek.
+> The names are the easy part. Anyone can list India's new fabs. The work
+> was in the paths between them. Wavetek is UMC's subsidiary, so the proof
+> you already have there walks straight up into UMC's own fabs. CG Semi is
+> a Renesas JV — win the OSAT in Gujarat and you have a reason to be in
+> front of Renesas in Japan. And Tata's Vemagal line is already shipping,
+> while everyone watches Dholera.
 >
-> Three of the four Tier 1 sites are at Sanand. Do they buy as one account
-> or three?
+> Your $120B post is why I built it that way.
+>
+> Happy to send the whole thing. Mostly I'd like to know if you'd tier it
+> the same way.
 >
 > Arun
 > +91 89207 12899
-
-Body: 107 words. Built by a 21-agent panel (5 constructions x 3 judge
-lenses + synthesis); "her-words-answer" won 3/3 would-reply votes.
-
-### What changed and why (v9)
-
-1. **Artifact first.** The job-post opener is gone entirely. Sentence one
-   is the finished thing. The role posting is not mentioned at all — she
-   knows she posted it, and referencing it framed him as a responder.
-2. **Engages her ARGUMENT, not her number.** "$120B" alone is the most
-   liftable figure in her post — anyone skimming the headline has it, and
-   leading on a market size is the shape of every pitch she archives. The
-   line now states her actual thesis: the value is at risk *after* the
-   defect is found, not in finding it. That proves he read it.
-3. **Renesas routed through a person, not an org chart.** The old line
-   ("CG Semi is a Renesas JV — win Gujarat and you have a reason to be in
-   front of Renesas in Japan") is procurement-naive: Renesas Japan does not
-   buy tooling because an Indian JV partner did. Replaced with the verified
-   human bridge — their lead test equipment engineer spent 14 years at
-   Renesas KL — and the email explicitly disclaims the JV logic.
-4. **The Dholera contrast is cut.** "Vemagal is shipping while everyone
-   watches Dholera" told an India-based semiconductor CEO that Dholera
-   isn't producing yet. Pure expert-signalling about her own market. Only
-   the fact she might not have — Vemagal already shipping — survives.
-5. **New close, and it is the strongest line in the email.** Three of the
-   four Tier 1 sites (Micron, CG Semi, Kaynes) are all at Sanand, Gujarat.
-   Whether that cluster is one account or three is a real go-to-market
-   question, she is the only person who can answer it, and it costs her one
-   line. The old "would you tier it the same way?" asked her to grade
-   homework; this asks her something he genuinely does not know.
-6. **Every counted-and-verified claim deleted.** "16 named people",
-   "verified on LinkedIn", "19 lookalikes each with a live trigger", "all
-   public signals" — all describe the work instead of delivering it. One
-   named engineer with a real history proves more than any count.
-
-### Fact-check applied post-panel
-
-The synthesis called the four Tier 1 plants "OSATs". **Micron Sanand is a
-captive ATMP** — it packages Micron's own memory and sells no assembly
-service, so it is not an OSAT. Corrected to the plain word "plants".
-Getting a term of art slightly wrong in front of an eight-year industry
-operator is worse than not using it.
-
-### Known weakness carried forward
-
-The Wavetek→UMC path is a *hypothesis*, not a procurement fact: a
-subsidiary win does not automatically open the parent's fabs, which run
-their own qualification with incumbent vendors. It survives only because
-the sentence claims a tier placement ("so are UMC's specialty fabs, off
-Wavetek") rather than asserting how UMC buys. If she pushes back on it,
-concede immediately — that is a good conversation, not a loss.
-
-### Also flagged for the PDF (not the email)
-
-The panel's founder lens argues AI defect classification is bought by
-**yield engineering, process integration and inspection/metrology** — and
-that "test" means ATE/electrical test, a different function. The Tier 1
-people in the account map are weighted toward operations/quality/test.
-Worth re-checking that persona mix before the PDF goes out.
 
 ## No P.S. — decided
 
@@ -139,16 +83,18 @@ possible; keep any meeting offer video-first.
 
 ## LinkedIn DM (if email bounces, or as a same-day second channel)
 
-> Akanksha — I built a two-page account map for SixSense. 30 accounts,
-> three tiers. Tier 1 is the four Indian plants that started production
-> this year, four names each. CG Semi's lead test equipment engineer spent
-> 14 years at Renesas KL, which is why Renesas is in Tier 2. Three of the
-> four Tier 1 sites are at Sanand — do they buy as one account or three?
+> Hi Akanksha — saw the Founding GTM Engineer post. I build
+> target-account lists for B2B teams, and I went ahead and built
+> SixSense's. About 30 names, tiered by the paths between them rather than
+> the names themselves — Wavetek walks up into UMC, CG Semi is a door to
+> Renesas, Vemagal is already shipping while everyone watches Dholera.
+> Happy to send the whole thing. Mostly I'd like to know if you'd tier it
+> the same way.
 
 ## Follow-up (only if no reply in 3–4 business days)
 
-> Following up on the map. Still curious about the Sanand question —
-> one account or three? Happy to send the pages either way.
+> Quick nudge — one page, 90 seconds to read. Mostly I'd like to know
+> which ones you'd throw out. Yours either way.
 
 ## Register — written from all stages integrated, not Orange alone
 

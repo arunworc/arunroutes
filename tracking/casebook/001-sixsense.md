@@ -69,3 +69,34 @@ shot silently); 16 profile titles need a 5-min spot-check on send day.
 ## Lessons (write only at terminal stage)
 — pending. Candidate lessons already banked in the 8 rules above; confirm
 or kill them against the actual outcome.
+
+## Panel experiment — 30 Aug (reverted)
+
+Ran a 21-agent workflow (5 constructions x 3 judge lenses + synthesis) to
+rewrite the email against six criteria. 934k tokens. Arun's verdict: the
+previous version was better. Reverted to v8.
+
+**Why it failed.** The rewrite optimised the criteria and lost the email.
+It went telegraphic ("Four names each", "So are UMC's specialty fabs, off
+Wavetek"), dropped the actual offer to send the map, and re-committed the
+banned sin in a subtler form — "Your August post put the $120B after the
+defect is found, not in finding it" explains her own argument back to her.
+Judges scoring criteria did not catch that, because it scored well on
+every criterion.
+
+**Lesson: a rubric is not a reader.** Scoring copy against a checklist
+optimises for the checklist. Cheaper and better: one careful pass plus
+Arun's own ear, which has caught every real problem in this email so far
+(scripted, fake, expert-ish, glued, vague) faster than any panel.
+
+**Worth keeping from it (unused so far):**
+- Three of the four Tier 1 sites are at Sanand (Micron, CG Semi, Kaynes).
+  True, not currently used anywhere. A possible follow-up question.
+- CG Semi's lead test equipment engineer spent 14 years at Renesas KL —
+  a person-level path, stronger than the JV org-chart claim if the
+  Renesas line ever needs defending.
+- Terminology: Micron Sanand is a captive ATMP, not an OSAT. Do not call
+  all four plants OSATs.
+- Persona check for the PDF: defect-classification budget may sit with
+  yield engineering / process integration / inspection-metrology rather
+  than the operations/quality/test mix currently listed.

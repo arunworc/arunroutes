@@ -100,3 +100,21 @@ Arun's own ear, which has caught every real problem in this email so far
 - Persona check for the PDF: defect-classification budget may sit with
   yield engineering / process integration / inspection-metrology rather
   than the operations/quality/test mix currently listed.
+
+## Sending identity — 31 Aug
+
+Sends from `arun.worc@gmail.com`. Considered and rejected: an Instantly
+burner mailbox (warmed cold-email domain, tracking pixels, link rewriting,
+worse first-contact deliverability than a real personal Gmail — all of it
+working against a one-to-one founder email). Instantly is also not
+reachable from this session: no tool, no API key. Apollo is connected but
+free-tier with zero linked mailboxes.
+
+Open item: no professional-domain mailbox exists yet. The fix when wanted
+is a real domain mailbox added to Gmail as a send-as alias — professional
+address, Gmail deliverability, no cold-email machinery, and the existing
+draft just switches its From. Worth doing before the next 10 companies;
+the gmail.com address is a small standing credibility tax on every send.
+
+**Track this as a variable.** If reply rates stay low across the manual
+lane, sender domain is one of the first things to test.

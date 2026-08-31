@@ -49,12 +49,10 @@ as a business partner who builds target-account pipelines.
 > I map target accounts for B2B teams, and I went ahead and built
 > SixSense's. About 30 names, tiered.
 >
-> The names are the easy part. Anyone can list India's new fabs. The work
-> was in the paths between them. Wavetek is UMC's subsidiary, so the proof
-> you already have there walks straight up into UMC's own fabs. CG Semi is
-> a Renesas JV — win the OSAT in Gujarat and you have a reason to be in
-> front of Renesas in Japan. And Tata's Vemagal line is already shipping,
-> while everyone watches Dholera.
+> Tier 1 is the four Indian plants that started production this year, with
+> four named people at each. Three of the four are at Sanand. Tier 2 hangs
+> off customers you already have: UMC via Wavetek, Renesas via CG Semi.
+> Tier 3 is the expansion list.
 >
 > Your $120B post is why I built it that way.
 >
@@ -85,11 +83,11 @@ possible; keep any meeting offer video-first.
 
 > Hi Akanksha — saw the Founding GTM Engineer post. I build
 > target-account lists for B2B teams, and I went ahead and built
-> SixSense's. About 30 names, tiered by the paths between them rather than
-> the names themselves — Wavetek walks up into UMC, CG Semi is a door to
-> Renesas, Vemagal is already shipping while everyone watches Dholera.
-> Happy to send the whole thing. Mostly I'd like to know if you'd tier it
-> the same way.
+> SixSense's. About 30 names, tiered. Tier 1 is the four Indian plants
+> that started production this year, four named people at each. Tier 2
+> hangs off customers you already have: UMC via Wavetek, Renesas via CG
+> Semi. Happy to send the whole thing. Mostly I'd like to know if you'd
+> tier it the same way.
 
 ## Follow-up (only if no reply in 3–4 business days)
 
@@ -143,6 +141,17 @@ registers survive simplification; the nesting did not need to.
   accept a file, and it makes her the authority. It also fails well — "no,
   you're wrong about X" is a conversation, where "no thanks" to an
   attachment is a dead end.
+- **State facts about the MAP, never claims about her market.** This is
+  the sharpest version of the show-don't-explain rule. "Wavetek is UMC's
+  subsidiary, so the proof you already have there walks straight up into
+  UMC's own fabs" tells an eight-year operator how her own customers buy —
+  and the inference is arguable (a subsidiary win does not open the
+  parent's qualification process). "Tier 2 hangs off customers you already
+  have: UMC via Wavetek" states only what Arun built. She knows Wavetek is
+  UMC's; she draws the conclusion herself in half a second, and a
+  conclusion she reaches is worth more than one she is handed. Same for
+  Renesas: no "win Gujarat and you have a reason to be in front of Renesas
+  in Japan" (procurement-naive), just the tier placement.
 - **Show the moat, not the names.** Tata, Micron, CG Semi, GlobalFoundries
   are one Google away; listing them proves nothing and reads as research
   anyone could do. What is not searchable in one query is the graph

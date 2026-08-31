@@ -25,6 +25,7 @@ Lead generation was solved and paid for. Delivery was the bottleneck.
 - `inventory/` — role lists verified against primary sources, dated. Each entry
   carries the source URL so a recipient can check it independently.
 - `outreach/` — message templates and the rules governing what may be claimed.
+- `notes/` — tooling and operating assessments, dated.
 
 ## Rules for outbound copy
 

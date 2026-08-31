@@ -60,7 +60,6 @@ as a business partner who builds target-account pipelines.
 > the same way.
 >
 > Arun
-> +91 89207 12899
 
 ## No P.S. — decided
 

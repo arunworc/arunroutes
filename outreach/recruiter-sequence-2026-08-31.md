@@ -1,13 +1,8 @@
 # Recruiter outreach sequence — 31 Aug 2026
 
-One question. Nothing else.
+One question. No company name — that's the asset.
 
-The email's only job is to get a yes or a no. If it's a yes, there's a conversation, and
-the conversation is where anything else gets explained. Nothing about fees, nothing asking
-for profiles, nothing explaining how the desk works.
-
-**Merge variables:** `{{firstName}}` `{{roleTitleLc}}` `{{company}}` `{{roleTitle}}`
-`{{roleMode}}` `{{roleSpec}}` `{{roleUrl}}`
+**Merge variables:** `{{firstName}}` `{{roleTitleLc}}` `{{roleTitle}}` `{{roleMode}}` `{{roleSpec}}`
 
 ---
 
@@ -18,10 +13,8 @@ for profiles, nothing explaining how the desk works.
 ```
 {{firstName}},
 
-{{company}} is hiring a {{roleTitle}}. {{roleMode}}.
+Looking for a {{roleTitle}}. {{roleMode}}.
 {{roleSpec}}.
-
-That looked like your territory rather than mine.
 
 Do you have someone?
 
@@ -49,7 +42,7 @@ Arun Routes · [address] · reply STOP and I'll leave you alone.
 ```
 Taking that as a no, {{firstName}}. Won't chase.
 
-Posting's here if it's useful to you directly: {{roleUrl}}
+If someone lands on your bench later, reply here whenever.
 
 Arun
 
@@ -58,54 +51,47 @@ Arun Routes · [address] · reply STOP and I'll leave you alone.
 
 ---
 
-## Worked example — Trajectory Labs to RedBlue Security
+## Worked example — to RedBlue Security
 
 **Subject:** `ai cyber red teamer — do you have someone?`
 
 ```
 Marcelo,
 
-Trajectory Labs is hiring an AI Cyber Red Teamer. Remote, contract.
+Looking for an AI cyber red teamer. Remote, contract.
 Frontier-model jailbreaks, offensive security background, CTF results or published CVEs.
-
-That looked like your territory rather than mine.
 
 Do you have someone?
 
 Arun
-
-Arun Routes · [address] · reply STOP and I'll leave you alone.
 ```
 
-38 words.
+25 words.
 
 ---
 
 ## Merge values for the two launch cells
 
-| Field | Trajectory Labs `20764` | MATS Research `20741` |
+| Field | Cell 1 (`20764`) | Cell 2 (`20741`) |
 |---|---|---|
-| `{{company}}` | Trajectory Labs | MATS Research |
-| `{{roleTitle}}` | AI Cyber Red Teamer | Residency |
-| `{{roleTitleLc}}` | ai cyber red teamer | ai safety residency |
+| `{{roleTitleLc}}` | ai cyber red teamer | ai safety researcher |
+| `{{roleTitle}}` | AI cyber red teamer | senior AI safety researcher |
 | `{{roleMode}}` | Remote, contract | London, Berkeley or DC. $155k–$285k |
-| `{{roleSpec}}` | Frontier-model jailbreaks, offensive security background, CTF results or published CVEs | Senior researchers with a substantial body of work, moving into or already in AI safety |
-| `{{roleUrl}}` | https://www.trajectorylabs.com/careers/ai-cyber-red-teamer | https://www.matsprogram.org/residency |
+| `{{roleSpec}}` | Frontier-model jailbreaks, offensive security background, CTF results or published CVEs | Substantial body of published or unpublished research, moving into or already in AI safety |
+
+The company is never named. Not in step 1, not in the follow-ups, not on a reply — the name
+goes out at introduction, after terms.
 
 ---
 
-## What happens on a yes
+## On a yes
 
-Not in the email. On the reply.
-
-1. Ask what they've got. Their format, their pace.
+1. Ask what they've got.
 2. Ask which employers they're already engaged with — as a standing list, not tied to this
-   role, so the question doesn't point at the target.
-3. Terms come up when they ask, or before anything reaches the employer. Never before.
+   role, so it doesn't point at the target.
+3. Terms before anything reaches the employer.
 
-## Still required before sending
+## Before sending
 
-Only two things, down from seven — the rest fell away with the copy that needed them.
-
-- [ ] Fill `[address]` — a postal address is required in commercial email.
-- [ ] Make STOP actually work. It's a promise in every send.
+- [ ] Fill `[address]`
+- [ ] Make STOP work

@@ -1,5 +1,13 @@
 # The $5,000 access model — review against live inventory
 
+> **Superseded in part, 31 Aug 2026.** This review assumed the product was
+> access to a job posting. It is not: the product is a warm introduction to an
+> employer who has already seen and shortlisted a specific recruiter's
+> candidate. That answers the central objection below. See
+> `notes/validated-intro-model-2026-08-31.md`. The economics tables and the
+> disintermediation and payment-trigger notes still hold.
+
+
 **Reviewed:** 31 Aug 2026 · Source: whiteboard, 31 Aug
 **Tested against:** `inventory/80k-top10-scraped-2026-08-31.csv`
 

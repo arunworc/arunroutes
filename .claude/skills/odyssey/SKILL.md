@@ -19,6 +19,9 @@ references/
 ├── index.md                — structure of the poem, per-book summaries,
 │                             and a "where the famous episodes are" table
 ├── characters.md           — who's who, and the Butler↔Greek name map
+├── operating-patterns.md   — five decision/failure shapes named after episodes
+│                             (Sirens, Scylla, cattle of the Sun, the bed test,
+│                             sizing an ask), each tied to its passage
 ├── text/book-01.md … book-24.md — the full text, one file per book
 ├── footnotes.md            — Butler's 187 footnotes ([n] markers in the text)
 └── translator-preface.md   — Butler's two prefaces (his "Authoress of the
@@ -64,6 +67,14 @@ young Sicilian woman is in `translator-preface.md`.
 from the text files rather than memory; small invented details (who was where,
 who said what) are the tell of an adaptation that never touched its source.
 Butler's diction is public domain: reuse or rework it freely.
+
+**Naming a decision or a failure** — the poem is also a compact catalogue of
+decision shapes: precommitment, bounded loss, unsupervised drift, verifiable
+proof, sizing an ask. `references/operating-patterns.md` names five, each tied
+to its passage. Useful when a project postmortem or a judgment call needs a
+precise name rather than a vague one. Keep these for internal reasoning — using
+them as borrowed authority in outward-facing copy is its own kind of
+unevidenced claim.
 
 ## Honesty about scope
 

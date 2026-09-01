@@ -50,3 +50,32 @@ Riviera's reach as well.
 
 The eight nonprofit and media firms in the contact list match no launch cell. They map to the
 CAIS, Tarbell and Humans in Control roles, all of which the grading excluded.
+
+---
+
+## Full recruiter campaign — 2026-09-01
+
+`instantly-READY.csv` — 34 firms, one row each, decision-maker email + merge fields.
+34 A/B-graded firms with a named contact and a working (or pattern-confirmed) address.
+The C-grade firms and three with no findable email are held in `instantly-READY-full.csv`.
+
+`instantly-push.sh` — the exact Instantly v2 API calls (create campaign, add leads, activate).
+Runs on YOUR machine; this container cannot reach api.instantly.ai (org egress policy, 403).
+
+### One email per FIRM, not per role
+Each firm is asked once about the single best-fit role in its cell. The board's 99 A-tier
+roles collapse to three "ask" archetypes (cyber / ai-research / ops-exec) so a recruiter
+gets one relevant question, not a list.
+
+### Before running instantly-push.sh
+- [ ] Rotate the Instantly API key (the one pasted in chat is compromised) and export the new one.
+- [ ] Replace [ADDRESS] in the sequence body with a real postal address (CAN-SPAM).
+- [ ] Confirm STOP handling / suppression is on in the workspace.
+- [ ] Re-check the 13 `pattern`-status emails; they are inferred, not confirmed. Verify or drop.
+
+### Contact-quality notes from discovery
+- Adeptis Group: offensive-desk owner Ryan Virani LEFT to found CyberMoves; MD Hubert Colvin is the fallback.
+- Nicoll Curtin / BeecherMadden: entire former cyber leadership departed; Philip Quinn is the live pentest contact.
+- Harrington Starr: defensive/regulatory cyber, NOT offensive — weak fit, kept as B only.
+- C-Serv: generalist "deployed pods" firm, not a pen-test placer — no personal email found.
+- Understanding Recruitment: the discovered email was on a different firm's domain; blanked pending verification.
